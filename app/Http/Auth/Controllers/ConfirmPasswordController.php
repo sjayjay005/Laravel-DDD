@@ -1,9 +1,9 @@
 <?php
 
-namespace Qwans\Http\Controllers\Auth;
+namespace Qwans\Http\Auth\Controllers;
 
-use Qwans\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ConfirmsPasswords;
+use Qwans\App\Controllers\Controller;
 
 class ConfirmPasswordController extends Controller
 {

@@ -68,7 +68,7 @@ return [
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
-            'model' => Qwans\User::class,
+            'model' => Qwans\Domain\Users\User::class,
         ],
 
         // 'users' => [

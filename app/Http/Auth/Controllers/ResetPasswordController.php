@@ -1,9 +1,9 @@
 <?php
 
-namespace Qwans\Http\Controllers\Auth;
+namespace Qwans\Http\Auth\Controllers;
 
-use Qwans\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ResetsPasswords;
+use Qwans\App\Controllers\Controller;
 
 class ResetPasswordController extends Controller
 {
