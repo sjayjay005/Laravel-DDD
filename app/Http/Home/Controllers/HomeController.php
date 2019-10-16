@@ -1,8 +1,9 @@
 <?php
 
-namespace Qwans\Http\Controllers;
+namespace Qwans\Http\Home\Controllers;
 
 use Illuminate\Http\Request;
+use Qwans\App\Controllers\Controller;
 
 class HomeController extends Controller
 {

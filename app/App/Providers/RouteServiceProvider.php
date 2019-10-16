@@ -14,7 +14,7 @@ class RouteServiceProvider extends ServiceProvider
      *
      * @var string
      */
-    protected $namespace = 'Qwans\Http\Controllers';
+    protected $namespace = 'Qwans\Http';
 
     /**
      * Define your route model bindings, pattern filters, etc.
