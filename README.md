@@ -1,7 +1,7 @@
 # Laravel-DDD
 Laravel Domain Driven Design base structure
 
-Laravel version 6.2
+Laravel version 6.*
 
 ## Installation
 1. Change the default app namespace
