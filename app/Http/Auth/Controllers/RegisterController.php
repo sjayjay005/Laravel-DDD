@@ -1,9 +1,9 @@
 <?php
 
-namespace Qwans\Http\Controllers\Auth;
+namespace Qwans\Http\Auth\Controllers;
 
-use Qwans\Http\Controllers\Controller;
-use Qwans\User;
+use Qwans\App\Controllers\Controller;
+use Qwans\Domain\Users\User;
 use Illuminate\Foundation\Auth\RegistersUsers;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;

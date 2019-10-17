@@ -1,6 +1,6 @@
 <?php
 
-namespace Qwans;
+namespace Qwans\Domain\Users;
 
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Foundation\Auth\User as Authenticatable;
